@@ -9,4 +9,4 @@
 - Enemy drop coin for upgrades
 - Shop
 - Title Screen
-- Crosshair
+- ~~Crosshair~~
